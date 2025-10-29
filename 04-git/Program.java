@@ -5,6 +5,7 @@ public class Program {
     Program program = new Program();
     
     System.out.println(program.x);
+    System.out.println(program.x);
   }
 
 }
