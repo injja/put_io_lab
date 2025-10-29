@@ -1,5 +1,5 @@
 public class Program {
-  int x = 5;
+  int x = 52;
 
   public static void main(String[] args) {
     Program program = new Program();
