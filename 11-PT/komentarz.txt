@@ -1,0 +1,18 @@
+zad 1
+Dla kodu bazowego
+Śr. czas odpowiedzi: 11084
+Przepustowość 35.8/min
+
+Moje usprawnienie polegało na przeniesieniu obliczania averageSpendings() poza pętlę iterującą
+po każdym kliencie- wartość średnich wydatków obliczana jest raz na wywołanie funkcji
+ponieważ wartość jest taka sama
+
+
+Dla poprawionego
+Śr. czas odpowiedzi: 1665
+Przepustowość 1.4/sec
+
+zad 2
+dla 10 drukarek: 2,1/s
+
+zwiększyłam ilość do 30 drukarek osiągając wynik ok. 5.9/s, czyli wystarczającą na potrzeby firmy, z zapasem na wypadek awarii
